@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Gmail Docs
 description: Gmail tutorial for beginners
-baseurl: "/Gmail-Docs" # the subpath of your site, e.g. /blog
+baseurl: "/Gmail_Docs" # the subpath of your site, e.g. /blog
 url: "https://Joonior-Programmer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
@@ -65,7 +65,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Gmail Docs on GitHub":
-    - "https://github.com/Joonior-Programmer/Gmail-Docs"
+    - "https://github.com/Joonior-Programmer/Gmail_Docs"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -92,7 +92,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/Joonior-Programmer/Gmail-Docs" # the github URL for your repo
+gh_edit_repository: "https://github.com/Joonior-Programmer/Gmail_Docs" # the github URL for your repo
 gh_edit_branch: "gh-pages" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
