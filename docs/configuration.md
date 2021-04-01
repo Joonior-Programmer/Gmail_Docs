@@ -68,7 +68,7 @@ search:
 # Aux links for the upper right navigation
 aux_links:
   "Gmail Docs on GitHub":
-    - "//github.com/Joonior-Programmer/Gmail-Docs"
+    - "//github.com/Joonior-Programmer/Gmail_Docs"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
