@@ -8,11 +8,15 @@ permalink: /docs/ui-components
 
 # Basics
 
-Accessing Quick Settings
-	Click on the cogwheel on the top right corner next to your profile picture
+Accessing Quick Settings.
 
-Accessing All Settings
-	Click on the cogwheel on the top right corner next to your profile picture
-	Click see all settings in the new window that popped up
+1. Click on the cogwheel on the top right corner next to your profile picture.
+
+
+Accessing All Settings.
+
+1. Click on the cogwheel on the top right corner next to your profile picture.
+
+2. Click see all settings in the new window that popped up.
 
 {: .fs-6 .fw-300 }
