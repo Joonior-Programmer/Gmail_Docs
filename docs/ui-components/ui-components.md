@@ -1,12 +1,18 @@
 ---
 layout: default
-title: UI Components
+title: Basics
 nav_order: 3
 has_children: true
 permalink: /docs/ui-components
 ---
 
-# UI Components
+# Basics
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+Accessing Quick Settings
+	Click on the cogwheel on the top right corner next to your profile picture
+
+Accessing All Settings
+	Click on the cogwheel on the top right corner next to your profile picture
+	Click see all settings in the new window that popped up
+
 {: .fs-6 .fw-300 }
