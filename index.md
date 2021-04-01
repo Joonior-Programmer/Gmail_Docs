@@ -5,6 +5,7 @@ nav_order: 1
 description: "Gmail Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
+{: .no_toc}
 
 # Introduction
 
@@ -16,7 +17,9 @@ Gmail is Google’s free to use email system that is available to every google a
 
 # Table of Contents
 
-...
+{: .no_toc .text-delta }
+* TOC
+{:toc}
 
 ---
 
