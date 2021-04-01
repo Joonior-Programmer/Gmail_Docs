@@ -1,0 +1,45 @@
+{
+  "folders": [
+	{
+		"name": ".github",
+		"path": "."
+	},
+	{
+		"name": "_includes",
+		"path": "..\\_includes"
+	},
+	{
+		"name": "_layouts",
+		"path": "..\\_layouts"
+	},
+	{
+		"name": "_sass",
+		"path": "..\\_sass"
+	},
+	{
+		"name": "assets",
+		"path": "..\\assets"
+	},
+	{
+		"name": "bin",
+		"path": "..\\bin"
+	},
+	{
+		"name": "docs",
+		"path": "..\\docs"
+	},
+	{
+		"name": "lib",
+		"path": "..\\lib"
+	},
+	{
+		"name": "script",
+		"path": "..\\script"
+	},
+	{
+		"name": "Gmail-Docs",
+		"path": "..\\..\\..\\Gmail-Docs"
+	}
+],
+  "settings": {}
+}
