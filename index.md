@@ -69,7 +69,7 @@ Therefore, learning how to customize and automate Gmail will help you to reduce 
 # Typographical Convention
 
 | Text Font         | Meaning        | Example                     |
-| ----------------- |:--------------:|:---------------------------:| 
+| ----------------- |:--------------:|:---------------------------:|  
 | **Bolded Words**  | button names   | *Click* on **All Settings** |
 | *Italic Words*    | actions        | *Press* on the cogwheel     |
 | ```Block Words``` | category names | *Find* ```Images```         |
@@ -78,7 +78,7 @@ Therefore, learning how to customize and automate Gmail will help you to reduce 
 
 # Conclusion
 
-Gmail’s extensive suite of features are often overlooked, thus making people think it is just a mediocre email system. However, Gmail is one of the most powerful email systems especially when used with other Google apps. 
+Gmail’s extensive suite of features are often overlooked, thus making people think it is just a mediocre email system. However, Gmail is one of the most powerful email systems especially when used with other Google apps.  
 
 With all this said, let us begin teaching these lesser known features. Creating Categories is a good place to start reading.
 
