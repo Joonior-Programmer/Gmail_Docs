@@ -9,10 +9,10 @@ nav_order: 1
 
 1. *Open* messsage
 
-2. *Click* three dots on the top right corner next to reply
+2. *Left Click* three dots on the top right corner next to reply
 <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/threeDots.png?raw=true">
 
-3. *Press* **Report spam** to report spam or **Report phishing** to report phishing attacks
+3. In the newly opened window *Left Click* **Report spam** to report spam or **Report phishing** to report phishing attacks
 
 Reporting Spam
 <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/reportSpam.png?raw=true">
