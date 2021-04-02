@@ -3,6 +3,7 @@ layout: default
 title: User Safety
 has_children: true
 nav_order: 6
+permalink: /docs/user-safety
 ---
 
 # User Safety
