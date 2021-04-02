@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Basics
-nav_order: 3
-has_children: true
-permalink: /docs/ui-components
+nav_order: 2
+permalink: /docs/basics
 ---
 
 # Basics
