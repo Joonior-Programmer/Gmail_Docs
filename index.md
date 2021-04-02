@@ -73,7 +73,7 @@ Therefore, learning how to customize and automate Gmail will help you to reduce 
 | **Bolded Words**  | button names   | *Click* on **All Settings** |
 | *Italic Words*    | actions        | *Press* on the cogwheel     |
 | ```Block Words``` | category names | *Find* ```Images```         |
-| <a href="https://joonior-programmer.github.io/Gmail_Docs/">Highlighted Words</a> | links | *Find* ```Images```         |
+| <a href="#link_example" id="link_example">Highlighted Words</a> | links | *Find* ```Images```         |
 
 ---
 
