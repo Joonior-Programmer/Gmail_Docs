@@ -12,7 +12,7 @@ Accessing Quick Settings.
 
 1. Click on the cogwheel on the top right corner next to your profile picture.
 
- ![Quick-Settings-1] (https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/quickSetting1.png?raw=true)
+ ![Quick-Settings-1] (<https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/quickSetting1.png?raw=true>)
 
 Accessing All Settings.
 
