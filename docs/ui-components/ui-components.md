@@ -7,9 +7,9 @@ permalink: /docs/basics
 
 # Basics
 
-## Accessing Quick Settings
-
 ---
+
+## Accessing Quick Settings
 
 1. Click on the cogwheel on the top right corner next to your profile picture.
  <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/quickSetting2.png?raw=true">
@@ -17,8 +17,6 @@ permalink: /docs/basics
 ---
 
 ## Accessing All Settings
-
----
 
 1. Click on the cogwheel on the top right corner next to your profile picture.
  <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/quickSetting2.png?raw=true">
