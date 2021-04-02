@@ -29,7 +29,7 @@ nav_order: 4
 5. *Left Click* **Save** in the bottom right of the configuration menu
         <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/savePasscode.png?raw=true">
 
-6. After completing you message *Left Click* send
+6. After completing you message *Left Click* **Send**
 
     - NOTE: if SMS passcode was selected a window will pop up asking for a phone number. Enter the RECIPIENT'S phone number and NOT the SENDER'S.
         <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/SMSPasscode.png?raw=true">
