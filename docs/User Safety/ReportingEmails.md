@@ -1,14 +1,11 @@
 ---
 layout: default
-title: User Safety
-nav_order: 6
+title: Reporting Emails
+parent: User Safety
+nav_order: 1
 ---
 
-# User Safety
-
----
-
-## Reporting emails
+# Reporting Emails
 
 1. *Open* messsage
 
@@ -22,3 +19,5 @@ Reporting Spam
 
 Reporting Phishing
 <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/reportPhishing.png?raw=true">
+
+---
