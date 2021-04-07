@@ -31,6 +31,15 @@ nav_order: 1
 6. Below the date *Left Click* **Add guests** and *Type* in a guest's email and *Press Enter* on your keyboard. *Repeat* until all guests are added.
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/addGuests.png?raw=true">
 
+7. Set a reminder time by *Left Clicking* the option next to the bell icon near the bottom
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/setReminder.png?raw=true">
+
+8. *Left Click* **Save** on the bottom right corner
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/saveEvent.png?raw=true">
+
+9. *Left Click* **Send** on the bottom right of the new window pop-up
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/sendNotification.png?raw=true">
+
 ---
 
 ## Customization
@@ -48,12 +57,3 @@ nav_order: 1
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/selectEventColor.png?raw=true">
 
 ---
-
-7. Set a reminder time by *Left Clicking* the option next to the bell icon near the bottom
-    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/setReminder.png?raw=true">
-
-8. *Left Click* **Save** on the bottom right corner
-    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/saveEvent.png?raw=true">
-
-9. *Left Click* **Send** on the bottom right of the new window pop-up
-    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/sendNotification.png?raw=true">
