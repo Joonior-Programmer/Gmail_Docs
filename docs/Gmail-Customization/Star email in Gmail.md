@@ -18,13 +18,16 @@ nav_order: 5
 
 ## Star Email
 
-Click on the star icon to mark an email.
-![](Star1.jpg)
+1. *Left Click* on the star icon to mark an email.
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/StarEmailInGmail/Star1.png?raw=true">
 
 ## Starred Inbox
 
-Click "Starred" to access Starred Inbox.
-![](Star2.jpg)
+2. *Left Click* **Starred** to access Starred Inbox.
 
-If you are succeed to access Starred Inbox, you can only see Starred Emails now.
-![](Star3.jpg)
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/StarEmailInGmail/Star2.png?raw=true">
+
+3. If you have succeeded in accessing Starred Inbox, you can only see Starred Emails now.
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/StarEmailInGmail/Star3.png?raw=true">

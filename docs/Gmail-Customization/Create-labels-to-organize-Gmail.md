@@ -19,18 +19,22 @@ nav_order: 2
 
 ## Create labels
 
-1.1.1) Click "More" on the left sidebar
-![](Click_more.jpg)
+1. *Left Click* **More** on the left sidebar
 
-1.1.2) Scroll down to bottom on the left sidebar
-![](Scroll_Down.jpg)
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateLabelsToOrganizeGmail/Click_more.png?raw=true">
 
-1.2) If you see the menu differently like the picture below, Click cogwheel to manage labels or plus sign to create new label
-![](Click_cogwheel_or_plus_sign.jpg)
+2. *Scroll* down to bottom on the left sidebar
 
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateLabelsToOrganizeGmail/Scroll_Down.png?raw=true">
 
-Click Manage Labels or Create New Label
-![](Click_labels.jpg)
+3. If you see the menu differently like the picture below, *Left Click* cogwheel to manage labels or **+** to create new label
 
-Type a name and optionally select a category for it to belong to and click create to finalize your changes
-![](Create_label.jpg)
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateLabelsToOrganizeGmail/Click_cogwheel_or_plus_sign.png?raw=true">
+
+4. *Left Click* **Manage Labels** or **Create New Label**
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateLabelsToOrganizeGmail/Click_labels.png?raw=true">
+
+5. *Type* a name and optionally select a category for it to belong to and *Left Click* **Create** to finalize your changes
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateLabelsToOrganizeGmail/Create_label.png?raw=true">
