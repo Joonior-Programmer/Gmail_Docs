@@ -2,7 +2,7 @@
 layout: default
 title: Star email in Gmail
 parent: Gmail Customization
-nav_order: 5
+nav_order: 4
 ---
 
 # Layout Utilities
