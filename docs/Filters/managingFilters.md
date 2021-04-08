@@ -11,4 +11,4 @@ Change your filters or delete them.
 
 ---
 
-1. Access **All Settings**
+1. Access <a href="" target="_blank">All Settings</a>
