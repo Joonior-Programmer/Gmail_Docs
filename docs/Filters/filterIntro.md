@@ -4,6 +4,7 @@ title: Filter Customization
 nav_order: 7
 has_children: true
 permalink: docs/Filters
+---
 
 # Filter Customization
 {: .no_toc }
