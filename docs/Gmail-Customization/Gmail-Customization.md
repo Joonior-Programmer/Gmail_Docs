@@ -3,7 +3,7 @@ layout: default
 title: Gmail Customization
 nav_order: 3
 has_children: true
-permalink: docs/utilities
+permalink: docs/gmail_customization
 ---
 
 # Gmail Customization
