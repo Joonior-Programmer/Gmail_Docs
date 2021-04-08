@@ -37,11 +37,4 @@ Create a search filter for emails based on a specific criteria, and also add som
 
 4. *Click* **Create Filter**
 
-Managing and deleting Filters
-Access the settings
-Go to the filters and blocked access tab
-Check one or more filters, or manage each one directly via the edit and delete buttons
-Batch delete or export by clicking the export and delete buttons respectively
-
-
 ---
