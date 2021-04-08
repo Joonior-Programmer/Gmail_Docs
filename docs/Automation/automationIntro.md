@@ -6,8 +6,8 @@ has_children: true
 permalink: docs/Automation
 ---
 
-# Filter Customization
+# Email Automation
 {: .no_toc }
 
-Filter customization allows you to set up streamlined workflows and set specific actions for certain emails.
+Automating certain process in emails helps to both speed up the workflow as well as simplify the process.
 {: .fs-6 .fw-300 }

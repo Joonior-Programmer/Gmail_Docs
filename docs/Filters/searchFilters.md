@@ -7,7 +7,7 @@ nav_order: 1
 
 # Search Filters
 
-Create a search filter for emails based on a specific criteria, and also add some automated actions
+Create a search filter for emails based on a specific criteria, and also add some automated actions.
 
 ---
 
