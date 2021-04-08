@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Managing Templates
-parent: Email automation
+parent: Email Automation
 nav_order: 1
 ---
 
