@@ -16,8 +16,6 @@ nav_order: 3
 
 ---
 
-
-
 ## Change inbox type
 
 1. Access [quick settings](https://joonior-programmer.github.io/Gmail_Docs/docs/basics)
