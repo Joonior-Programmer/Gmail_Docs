@@ -6,17 +6,6 @@ nav_order: 2
 ---
 
 
-# Layout Utilities
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 ## Create labels
 
 1. *Left Click* **More** on the left sidebar

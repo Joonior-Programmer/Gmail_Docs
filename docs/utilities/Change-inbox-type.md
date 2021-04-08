@@ -5,17 +5,6 @@ parent: Gmail Customization
 nav_order: 3
 ---
 
-# Color Utilities
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 ## Change inbox type
 
 1. Access [quick settings](https://joonior-programmer.github.io/Gmail_Docs/docs/basics)

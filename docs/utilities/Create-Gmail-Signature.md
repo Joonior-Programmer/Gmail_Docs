@@ -5,7 +5,7 @@ parent: Gmail Customization
 nav_order: 1
 ---
 
-# Responsive modifiers
+# Create a Gmail signature
 
 1. Access [all settings](https://joonior-programmer.github.io/Gmail_Docs/docs/basics)
 

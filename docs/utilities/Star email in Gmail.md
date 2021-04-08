@@ -5,17 +5,6 @@ parent: Gmail Customization
 nav_order: 4
 ---
 
-# Layout Utilities
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 ## Star Email
 
 1. *Left Click* on the star icon to mark an email.
