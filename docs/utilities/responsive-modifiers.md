@@ -2,9 +2,7 @@
 layout: default
 title: Create labels to organize Gmail
 parent: Gmail Customization
-nav_order: 2
 ---
-
 
 ## Create labels
 

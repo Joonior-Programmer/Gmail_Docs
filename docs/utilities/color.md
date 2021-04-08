@@ -2,7 +2,6 @@
 layout: default
 title: Change inbox type
 parent: Gmail Customization
-nav_order: 3
 ---
 
 ## Change inbox type

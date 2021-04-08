@@ -2,7 +2,6 @@
 layout: default
 title: Create a Gmail signature
 parent: Gmail Customization
-nav_order: 1
 ---
 
 # Create a Gmail signature
