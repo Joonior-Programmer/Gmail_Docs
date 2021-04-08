@@ -7,28 +7,26 @@ nav_order: 1
 
 # Responsive modifiers
 
-Click the cogwheel in the top right,
-then “See All Settings” to open the settings pane
+1. Access [all settings](https://joonior-programmer.github.io/Gmail_Docs/docs/basics)
 
-![](Right_cogwheel.jpg)
-![](See_all_setting.jpg)
+2. *Scroll* down until you reach the ```Signature``` section near the bottom, then *Left Click* **Create New** for a new signature
 
-Scroll down until you reach the signature section near the bottom,
-then Click “Create New” for a new signature
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateAGmailSignature/Signature_section.png?raw=true">
 
-![](Signature_section.jpg)
 
-Type in the signature name and press “Create”
-![](Name_new_signature.jpg)
+3. *Type* in the signature name and *Left Click* **Create**
 
-Type in the textbox to the right, setting the fonts, links, and images as desired with the controls
-![](Type_signature.jpg)
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateAGmailSignature/Name_new_signature.png?raw=true">
 
-Change the name or delete with the pencil and trash can icons respectively
-![](Manage_signature.jpg)
+4. *Type* in the textbox to the right, setting the fonts, links, and images as desired with the controls
 
-Specify the signature display settings with the three options below
-![](Choose_default_signature)
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateAGmailSignature/Type_signature.png?raw=true">
 
-Click "Save Changes" on the bottom
-![](Save_changes.jpg)
+5. Change the name or delete with the pencil and trash can icons respectively
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateAGmailSignature/Manage_signature.png?raw=true">
+
+6. Specify the signature display settings with the three options below
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateAGmailSignature/Choose_default_signature.png?raw=true">
+
+7. *Left Click* **Save Changes** on the bottom
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateAGmailSignature/Save_changes.png?raw=true">

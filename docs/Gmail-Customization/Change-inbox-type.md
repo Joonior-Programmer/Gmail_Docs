@@ -20,10 +20,7 @@ nav_order: 3
 
 ## Change inbox type
 
-Click the cogwheel in the right to open the settings pane
-![](Right_cogwheel.jpg)
+1. Access [quick settings](https://joonior-programmer.github.io/Gmail_Docs/docs/basics)
 
-
-Select the desired inbox type from the given options
-![](Inbox_type.jpg)
-
+2. *Left Click* the desired inbox type from the given options
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/ChangeInboxType/Inbox_type.png?raw=true">
