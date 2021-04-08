@@ -69,6 +69,6 @@ parent: Gmail Customization
 
         <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/Gmail-theme/Add_album_done.png?raw=true">
 
-8. *Go back* go step 5, now you are able to see the picture you added *Left-Click* the picture you added, then *Left-Click* "Select"
+8. *Go back* go step 5, now you are able to see the picture you added *Left-Click* the picture you added, then *Left-Click* **Select**
 
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/Gmail-theme/Select_added_photo.png?raw=true">
