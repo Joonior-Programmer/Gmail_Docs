@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Search Filters
-parent: Filters
+parent: Filter Customization
 nav_order: 1
 ---
 
