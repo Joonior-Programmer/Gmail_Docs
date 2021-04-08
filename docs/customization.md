@@ -1,8 +1,8 @@
-<!---
+---
 layout: default
 title: Customization
 nav_order: 8
---->
+---
 
 # Customization
 {: .no_toc }
