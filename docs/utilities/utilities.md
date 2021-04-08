@@ -1,6 +1,5 @@
 ---
 layout: default
-<<<<<<< HEAD
 title: Gmail Customization
 nav_order: 4
 has_children: true
