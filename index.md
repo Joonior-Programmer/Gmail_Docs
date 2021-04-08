@@ -23,7 +23,7 @@ Gmail is Google’s free to use email system that is available to every google a
 
 ---
 
-# Is This Guide For You
+# Is This Guide For You?
 
 The guide is for beginner Gmail users who have basic sending and receiving email understanding. 
 
