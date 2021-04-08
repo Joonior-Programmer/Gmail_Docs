@@ -1,18 +1,29 @@
 ---
 layout: default
-title: Responsive Modifiers
-parent: Utilities
+title: Create labels to organize Gmail
+parent: Gmail Customization
+nav_order: 2
 ---
 
-# Responsive modifiers
 
-Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes.
+## Create labels
 
-| Modifier  | Screen size                          |
-|:----------|:-------------------------------------|
-| (none)    | All screens until the next modifier  |
-| `xs`      | 320px (20rem) and up                 |
-| `sm`      | 500px (31.25rem) and up              |
-| `md`      | 740px (46.25rem) and up              |
-| `lg`      | 1120px (70rem) and up                |
-| `xl`      | 1400px (87.5rem) and up              |
+1. *Left Click* **More** on the left sidebar
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateLabelsToOrganizeGmail/Click_more.png?raw=true">
+
+2. *Scroll* down to bottom on the left sidebar
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateLabelsToOrganizeGmail/Scroll_Down.png?raw=true">
+
+3. If you see the menu differently like the picture below, *Left Click* cogwheel to manage labels or **+** to create new label
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateLabelsToOrganizeGmail/Click_cogwheel_or_plus_sign.png?raw=true">
+
+4. *Left Click* **Manage Labels** or **Create New Label**
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateLabelsToOrganizeGmail/Click_labels.png?raw=true">
+
+5. *Type* a name and optionally select a category for it to belong to and *Left Click* **Create** to finalize your changes
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateLabelsToOrganizeGmail/Create_label.png?raw=true">
