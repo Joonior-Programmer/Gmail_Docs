@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Managing And Deleting Filters
-parent: Filters
+parent: Filter Customization
 nav_order: 2
 ---
 
