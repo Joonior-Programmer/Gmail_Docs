@@ -4,7 +4,7 @@ title: Create labels to organize Gmail
 parent: Gmail Customization
 ---
 
-## Create labels
+# Create labels
 
 1. *Left Click* **More** on the left sidebar
 

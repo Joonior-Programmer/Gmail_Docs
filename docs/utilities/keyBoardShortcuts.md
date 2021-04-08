@@ -3,21 +3,23 @@ layout: default
 title: Keyboard Shortcuts
 parent: Gmail Customization
 ---
+# Keyboard Shortcuts
 
-# Responsive modifiers
+---
 
-Click the cogwheel in the top right,
-then “See All Settings” to open the settings pane
+# Turning Keyboard Shortcuts On
 
-1. *Left-Click* Setting, then *Left-Click* "See all settings"
-![](Right_cogwheel.png)
-![](See_all_setting.png)
+1. Access [all settings](https://joonior-programmer.github.io/Gmail_Docs/docs/basics)
 
-2. *Scroll down* to "Keyboard Shortcuts" section near middle, then *Left-Click* "Keyboard shortcuts on"
-![](Keyboard_shortcuts_section.png)
+2. *Scroll down* to ```Keyboard Shortcuts``` section near the middle, then *Left-Click* **Keyboard shortcuts on**  to enable keyboard shortcuts
 
-3. *Left-Click* "Save Changes" on the bottom
-![](Save_changes.png)
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/Keyboard-Shortcuts/Keyboard_shortcuts_section.png?raw=true">
+
+3. *Left-Click* **Save Changes** on the bottom
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/Keyboard-Shortcuts/Save_changes.png?raw=true">
+
+---
 
 ## Compose & Chat
 
@@ -37,6 +39,7 @@ then “See All Settings” to open the settings pane
 | `Go to next misspelled word (Mac only)`                | `⌘ + ;`                             |
 | `Open spelling suggestions`                | `⌘/Ctrl + m`                             |
 
+---
 
 ## Formatting text
 
@@ -59,6 +62,7 @@ then “See All Settings” to open the settings pane
 | `Align right`                | `⌘/Ctrl + Shift + r`                             |
 | `Remove formatting`                | `⌘/Ctrl + \`                             |
 
+---
 
 ## Actions
 
@@ -90,6 +94,8 @@ then “See All Settings” to open the settings pane
 | `Collapse entire conversation`                            |   `:`|
 | `Add conversation to Tasks`                            |   `Shift + t`|
 
+---
+
 ## Hangouts
 
 | `Action`                | `Shortcut`                         |
@@ -100,6 +106,7 @@ then “See All Settings” to open the settings pane
 | `Focus on the conversation list`   | `h + c`                             |
 | `Open phone` | `h + p`                             |
 
+---
 
 ## Jumping
 
@@ -116,6 +123,7 @@ then “See All Settings” to open the settings pane
 | `Go to Tasks`                | `g + k`                             |
 | `Go to label`                | `g + l`                             |
 
+---
 
 ## Threadlist selection
 
@@ -128,6 +136,7 @@ then “See All Settings” to open the settings pane
 | `Select starred conversations` | `* + s`                             |
 | `Select unstarred conversations`    | `* + t`                             |
 
+---
 
 ## Navigation
 
@@ -142,6 +151,7 @@ then “See All Settings” to open the settings pane
 | `Go to next Inbox section`    | ```                             |
 | `Go to previous Inbox section`    | `~`                             |
 
+---
 
 ## Application
 
@@ -155,3 +165,5 @@ then “See All Settings” to open the settings pane
 | `Open "move to" menu`    | `v`                             |
 | `Open "label as" menu`    | `|`                             |
 | `Open keyboard shortcut help`    | `?`                             |
+
+---

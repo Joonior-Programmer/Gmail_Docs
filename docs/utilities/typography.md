@@ -3,12 +3,17 @@ layout: default
 title: Star email in Gmail
 parent: Gmail Customization
 ---
+# Star Email in Gmail
+
+---
 
 ## Star Email
 
 1. *Left Click* on the star icon to mark an email.
 
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/StarEmailInGmail/Star1.png?raw=true">
+
+--- 
 
 ## Starred Inbox
 
@@ -19,3 +24,5 @@ parent: Gmail Customization
 3. If you have succeeded in accessing Starred Inbox, you can only see Starred Emails now.
 
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/StarEmailInGmail/Star3.png?raw=true">
+
+---
