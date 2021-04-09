@@ -61,7 +61,20 @@ Set up your inbox to automatically delete marked emails after a time period. If 
 
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/scriptOptions.png?raw=true">
 
-9. *Click* **Save** at the bottom (If you run into some errors in this step, refer to our troubleshooting guide)
+9. *Left Click* **Save** at the bottom (If you run into some errors in this step, refer to our troubleshooting guide)
 
+---
+
+## Deleting Scripts
+
+1. Access <a href="https://script.google.com" target="_blank">Google Scripts</a>
+
+2. *Left Click* **My Triggers** on the left sidebar
+
+3. *Left Click* the **Three Dots** on the right of the trigger and then click **Delete Trigger**
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/deleteTrigger.pngraw=true">
+
+4. *Left Click* **Delete Forever** when the warning appears
 
 ---
