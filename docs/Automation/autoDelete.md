@@ -7,7 +7,7 @@ nav_order: 2
 
 # Setting Up Auto Deletion
 
-Set up your inbox to automatically delete unwanted emails after a time period. If you don't feel comfortable working with code, then feel free to ignore this feature
+Set up your inbox to automatically delete marked emails after a time period. If you don't feel comfortable working with code, then feel free to ignore this feature
 
 ---
 
@@ -38,17 +38,30 @@ Set up your inbox to automatically delete unwanted emails after a time period. I
             } 
             }
     ``` 
+
+4. *Type* in some words between the quotation marks for the label name that marks them for deletion
+
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/scriptCode.png?raw=true">
-
-
-4. *Type* in some words for the label name between the quotation marks to mark them for deletion
 
 5. *Type* in the number of days before a message with the label will be auto deleted in the red box below the label name
 
+6. *Left Click* on "Untitled File" in the top left corner to change the name of the file
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/nameScript.png?raw=true">
+
+7. *Type* in the name and *Left Click* **Rename** to save changes
+
 6. *Left Click* **Triggers** in the sidebar
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/triggerScript.png?raw=true">
 
 7. *Left Click* **Add Trigger** on the bottom right
 
-    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/triggerScript.png?raw=true">
+8. *Set* the options to be the same as the picture shown below, or change to your liking if you understand their function. See the <a href="https://developers.google.com/apps-script/guides/triggers/installable">Official Google Documentation</a> for more information
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/scriptOptions.png?raw=true">
+
+9. *Click* **Save** at the bottom (If you run into some errors in this step, refer to our troubleshooting guide)
+
 
 ---
