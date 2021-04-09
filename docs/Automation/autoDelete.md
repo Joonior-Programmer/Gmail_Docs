@@ -21,25 +21,25 @@ Set up your inbox to automatically delete unwanted emails after a time period. I
 
 3. *Delete* the starting code and paste the code below into the file
 
-```js 
-function auto_delete_mails() { 
-        var label = GmailApp.getUserLabelByName("Delete Me"); // A label that signifies emails marked for deletion 
-        if(label == null) { 
-            GmailApp.createLabel('Delete Me'); 
-        } else { 
-            var delayDays = 2 // Number of days before messages are moved to trash 
-            var maxDate = new Date(); maxDate.setDate(maxDate.getDate()-delayDays);
-            var threads = label.getThreads(); 
-            for (var i = 0; i < threads.length; i++) { 
-                if (threads[i].getLastMessageDate()<maxDate) { 
-                    threads[i].moveToTrash(); 
-                }
+    ```js 
+    function auto_delete_mails() { 
+            var label = GmailApp.getUserLabelByName("Delete Me"); // A label that signifies emails marked for deletion 
+            if(label == null) { 
+                GmailApp.createLabel('Delete Me'); 
+            } else { 
+                var delayDays = 2 // Number of days before messages are moved to trash 
+                var maxDate = new Date(); maxDate.setDate(maxDate.getDate()-delayDays);
+                var threads = label.getThreads(); 
+                for (var i = 0; i < threads.length; i++) { 
+                    if (threads[i].getLastMessageDate()<maxDate) { 
+                        threads[i].moveToTrash(); 
+                    }
+                } 
             } 
-        } 
-        }
-```
+            }
+    ``` 
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/scriptCode.png?raw=true">
 
-<img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/scriptCode.png?raw=true">
 
 4. *Type* in some words for the label name between the quotation marks to mark them for deletion
 
@@ -47,7 +47,7 @@ function auto_delete_mails() {
 
 6. *Left Click* **Triggers** in the sidebar
 
-7. *Left Click **Add Trigger** on the bottom right
+7. *Left Click* **Add Trigger** on the bottom right
 
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/triggerScript.png?raw=true">
 
