@@ -7,6 +7,8 @@ nav_order: 3
 
 # Add-Ons
 
+This section will teach you how to install third-party plugins for Gmail.
+
 ---
 
 ## Installation
@@ -74,3 +76,5 @@ nav_order: 3
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/uninstallAppAddOn.png?raw=true">
 
 ---
+
+After installing these plugins it will permanently be part of your Gmail account until you uninstall it. This will hopefully help your effeciency as you can you mutiple apps in conjunction with your Gmail.

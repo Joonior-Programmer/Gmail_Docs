@@ -7,6 +7,10 @@ nav_order: 1
 
 # Google Calendar 
 
+This section will teach you how to make events within gmails and send invite emails to them as well.
+
+---
+
 1. *Left Click* on the Google Calendar icon on the column of icons on the right sidebar
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/googleCalendar.png?raw=true">
 
@@ -57,3 +61,5 @@ nav_order: 1
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/selectEventColor.png?raw=true">
 
 ---
+
+After doing this it will also create an event in Google Calendar as well and all the guests will be sent an email. You will also be sent emails back telling you if your guests are coming or not.

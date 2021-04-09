@@ -4,8 +4,13 @@ title: Muting Conversations/Blocking People
 parent: User Safety
 nav_order: 3
 ---
+# Muting Conversations/Blocking People
 
-# Blocking Users
+This section will teach you how to block people who you don't want messages from and how to mute active email threads.
+
+---
+
+## Blocking Users
 
 1. *Open* Message
 
@@ -17,7 +22,7 @@ nav_order: 3
 
 ---
 
-# Muting Conversations
+## Muting Conversations
 
 1. *Hover* mouse over desired message
 
@@ -25,3 +30,7 @@ nav_order: 3
 
 3. *Left Click* the **Mute** option
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/muteConversation.png?raw=true">
+
+---
+
+These people and conversation will be blocked and muted until you decide to turn them off by repeating the steps above.

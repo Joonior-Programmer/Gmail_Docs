@@ -7,6 +7,10 @@ nav_order: 4
 
 # Sending Confidential Emails
 
+There are some emails that you send and don't want just anyone to access. This Section will teach you how to make your emails expire after a certain date and only accessable by password.
+
+---
+
 1. *Left Click* the compose button on the top left of the window
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/compose.png?raw=true">
 
@@ -33,3 +37,6 @@ nav_order: 4
 
     - NOTE: if SMS passcode was selected a window will pop up asking for a phone number. Enter the RECIPIENT'S phone number and NOT the SENDER'S.
         <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/SMSPasscode.png?raw=true">
+
+---
+By doing this the email sent will be locked behind a password and will expire after the date you set it to expire. This process will only activate confidential mode for that email, so you will need to do this everytime you want to send a confidential email.

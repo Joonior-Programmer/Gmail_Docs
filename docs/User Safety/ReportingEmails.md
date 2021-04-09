@@ -7,6 +7,10 @@ nav_order: 1
 
 # Reporting Emails
 
+Sometimes you can get dangerous emails from scammers or bots. This section will teach you how to protect yourself from these attacks in a quick and easy way.
+
+---
+
 1. *Open* messsage
 
 2. *Left Click* three dots on the top right corner next to reply
@@ -21,3 +25,5 @@ Reporting Phishing
 <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/reportPhishing.png?raw=true">
 
 ---
+
+After reporting these emails Gmail will block these users from sending you messages again and will report phising scams to local athorities.

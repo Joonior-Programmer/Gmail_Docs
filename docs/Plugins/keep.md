@@ -7,6 +7,8 @@ nav_order: 2
 
 # Keep (Notes)
 
+This section will teach you how to use Keep within Gmail and how to attach emails to your Keep notes as well.
+
 ---
 
 ## Opening Keep
@@ -53,3 +55,7 @@ nav_order: 2
 1. *Left Click* on desired email message
 
 2. Complete step in 'To add note' to add to note or 'To add a list' to add to a list
+
+---
+
+After making notes in Keep you will also be able to access these notes in other google applications as well, such as Google Docs. 
