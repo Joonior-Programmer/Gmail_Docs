@@ -21,7 +21,8 @@ Set up your inbox to automatically delete unwanted emails after a time period. I
 
 3. *Delete* the starting code and paste the code below into the file
 
-``` function auto_delete_mails() { 
+```js 
+function auto_delete_mails() { 
         var label = GmailApp.getUserLabelByName("Delete Me"); // A label that signifies emails marked for deletion 
         if(label == null) { 
             GmailApp.createLabel('Delete Me'); 
@@ -38,7 +39,7 @@ Set up your inbox to automatically delete unwanted emails after a time period. I
         }
 ```
 
-    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/scriptCode.png?raw=true">
+<img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/scriptCode.png?raw=true">
 
 4. *Type* in some words for the label name between the quotation marks to mark them for deletion
 
