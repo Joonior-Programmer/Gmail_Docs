@@ -73,7 +73,7 @@ Set up your inbox to automatically delete marked emails after a time period. If 
 
 3. *Left Click* the **Three Dots** on the right of the trigger and then click **Delete Trigger**
 
-    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/deleteTrigger.pngraw=true">
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/deleteTriggerWarning.png?raw=true">
 
 4. *Left Click* **Delete Forever** when the warning appears
 
