@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Email Automation
-nav_order: 11
+nav_order: 7
 has_children: true
 permalink: docs/Automation
 ---
