@@ -86,3 +86,5 @@ Changing Gmail Theme will give you new feeling of Gmail
 #### Common Issues
 
 1. <a href="https://joonior-programmer.github.io/Gmail_Docs/docs/troubleshooting/#unable-to-add-photo-when-changing-gmail-theme" target="_blank">Unable To Add Photo When Changing Gmail Theme</a>
+---
+After changing the Gmail Theme, you will be able to use Gmail with a fresher feeling
