@@ -26,7 +26,7 @@ nav_order: 11
 
 ---
 
-## Unable to sent confidentail mode emails
+## Unable to sent confidential mode emails
 
 The Recipient might have receiving confidential emails disabled
 
@@ -50,6 +50,8 @@ The Recipient might have receiving confidential emails disabled
 
 1. *Left Click* the pop up blocked icon in the top right corner on the search bar
 
+  <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/popupBlocked.png?raw=true">
+
 2. *Left Click* the link that was blocked
 
 ---
@@ -57,6 +59,8 @@ The Recipient might have receiving confidential emails disabled
 ## Unverified Script
 
 1. *Left Click* **Advanced**
+
+  <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/unverifiedScript.png?raw=true">
 
 2. *Left Click* **Go to Name of Script**
 
@@ -74,7 +78,7 @@ The Recipient might have receiving confidential emails disabled
 
 ---
 
-## Custome label not showing
+## Custom label not showing
 
 - The script has to run at least once to create the label
   - either wait until tomorrow
