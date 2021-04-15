@@ -4,6 +4,9 @@ title: Create a Gmail signature
 parent: Gmail Customization
 ---
 
+# Intro
+Creating a Gmail signature will help you to automatically add signature box when you compose an email.
+
 # Create a Gmail signature
 
 1. Access [all settings](https://joonior-programmer.github.io/Gmail_Docs/docs/basics)
@@ -29,3 +32,7 @@ parent: Gmail Customization
 
 7. *Left Click* **Save Changes** on the bottom
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateAGmailSignature/Save_changes.png?raw=true">
+
+8. Now, when you compose an email,
+your signature will be automatically added
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateAGmailSignature/Signature_result.png?raw=true">

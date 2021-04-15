@@ -4,6 +4,9 @@ title: Create labels to organize Gmail
 parent: Gmail Customization
 ---
 
+# intro
+Creating and Managing Labels will help you to organize emails efficiently
+
 # Create labels
 
 1. *Left Click* **More** on the left sidebar
@@ -25,3 +28,6 @@ parent: Gmail Customization
 5. *Type* a name and optionally select a category for it to belong to and *Left Click* **Create** to finalize your changes
 
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateLabelsToOrganizeGmail/Create_label.png?raw=true">
+
+6. Now, you can organize emails by using the labels you added
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateLabelsToOrganizeGmail/Result_label.png?raw=true">

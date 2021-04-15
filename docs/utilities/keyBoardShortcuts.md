@@ -7,6 +7,10 @@ parent: Gmail Customization
 
 ---
 
+# intro
+
+Using keyboard shortcuts will increase efficiency of works enormously.
+
 # Turning Keyboard Shortcuts On
 
 1. Access [all settings](https://joonior-programmer.github.io/Gmail_Docs/docs/basics)

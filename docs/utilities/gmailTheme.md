@@ -7,6 +7,10 @@ parent: Gmail Customization
 
 ---
 
+# intro
+
+Changing Gmail Theme will give you new feeling of Gmail
+
 ## Choose from Existing Theme
 
 1. Access [quick settings](https://joonior-programmer.github.io/Gmail_Docs/docs/basics)
@@ -72,3 +76,7 @@ parent: Gmail Customization
 8. *Go back* go step 5, now you are able to see the picture you added *Left-Click* the picture you added, then *Left-Click* **Select**
 
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/Gmail-theme/Select_added_photo.png?raw=true">
+
+9. If you see the change of background, you succeed to change the theme
+
+    <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/Gmail-theme/Result_Theme.png?raw=true">
