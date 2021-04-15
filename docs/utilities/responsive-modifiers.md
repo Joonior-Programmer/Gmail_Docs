@@ -8,7 +8,7 @@ parent: Gmail Customization
 
 ---
 
-# intro
+# Intro
 Creating and Managing Labels will help you to organize emails efficiently
 
 # Create labels

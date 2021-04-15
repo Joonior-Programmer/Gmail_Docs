@@ -8,7 +8,7 @@ parent: Gmail Customization
 
 ---
 
-# intro
+# Intro
 
 Using keyboard shortcuts will increase efficiency of works enormously.
 

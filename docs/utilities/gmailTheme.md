@@ -8,7 +8,7 @@ parent: Gmail Customization
 
 ---
 
-# intro
+# Intro
 
 Changing Gmail Theme will give you new feeling of Gmail
 
