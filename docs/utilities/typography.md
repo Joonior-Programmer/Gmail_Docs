@@ -7,6 +7,9 @@ parent: Gmail Customization
 
 ---
 
+# Intro
+Checking star emails will help you to find important emails easily
+
 ## Star Email
 
 1. *Left Click* on the star icon to mark an email.
