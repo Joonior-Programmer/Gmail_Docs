@@ -38,3 +38,5 @@ Create a search filter for emails based on a specific criteria, and also add som
 4. *Click* **Create Filter**
 
 ---
+
+Now you will be able to clean up your inbox and only view the most relevant email

@@ -20,3 +20,5 @@ Change your filters or delete them.
 4.*Click* on the **Edit**, **Delete**, **Import**, or **Export** buttons to manage them
 
 ---
+
+Remove old filters or edit them to suit your current needs

@@ -90,3 +90,5 @@ Set up your inbox to automatically delete marked emails after a time period. If 
 4. *Left Click* **Delete Forever** when the warning appears
 
 ---
+
+You can now take control of your email with these powerful inbox management tools. Explore some more possibilities by reading through the documentation for Google Scripts!

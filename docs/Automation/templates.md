@@ -71,3 +71,5 @@ Create templates for common email responses to save time. They must first be ena
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/deleteWarning.png?raw=true">
 
 ---
+
+With templates, you can now save time when writing repetitive emails.
