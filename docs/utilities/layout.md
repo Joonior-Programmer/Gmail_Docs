@@ -40,3 +40,7 @@ Creating a Gmail signature will help you to automatically add signature box when
 8. Now, when you compose an email,
 your signature will be automatically added
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateAGmailSignature/Signature_result.png?raw=true">
+
+
+After you set the signature, you don't need to write the signature every time.
+In addition, you can have several versions of signature so that you can use the signature in the right situation

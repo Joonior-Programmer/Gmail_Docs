@@ -172,3 +172,5 @@ Using keyboard shortcuts will increase efficiency of works enormously.
 | `Open keyboard shortcut help`    | `?`                             |
 
 ---
+
+After using Keyboard Shortcuts, working with Gmail will be much more efficient
