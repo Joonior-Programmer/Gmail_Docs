@@ -30,5 +30,4 @@ Checking star emails will help you to find important emails easily
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/StarEmailInGmail/Star3.png?raw=true">
 
 ---
-
 After you star the emails, you can easily and quickly find the important email

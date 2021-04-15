@@ -36,4 +36,5 @@ Creating and Managing Labels will help you to organize emails efficiently
 6. Now, you can organize emails by using the labels you added
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/CreateLabelsToOrganizeGmail/Result_label.png?raw=true">
 
+---
 After you create and use labels, you can manage the emails according to the circumstances

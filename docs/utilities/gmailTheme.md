@@ -82,5 +82,5 @@ Changing Gmail Theme will give you new feeling of Gmail
 
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/Gmail-theme/Result_Theme.png?raw=true">
 
-
+---
 After changing the Gmail Theme, you will be able to use Gmail with a fresher feeling

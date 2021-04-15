@@ -24,5 +24,5 @@ Changing inbox type will help you to see important emails first to you
 
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/ChangeInboxType/Result_important.png?raw=true">
 
-
+---
 After changing inbox type, you can see the emails what you want to see first
