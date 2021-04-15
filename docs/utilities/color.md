@@ -3,7 +3,8 @@ layout: default
 title: Change inbox type
 parent: Gmail Customization
 ---
----
+
+
 # Change inbox type
 
 ---

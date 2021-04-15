@@ -3,6 +3,7 @@ layout: default
 title: Keyboard Shortcuts
 parent: Gmail Customization
 ---
+
 # Keyboard Shortcuts
 
 ---

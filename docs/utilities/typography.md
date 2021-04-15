@@ -3,6 +3,7 @@ layout: default
 title: Star email in Gmail
 parent: Gmail Customization
 ---
+
 # Star Email in Gmail
 
 ---

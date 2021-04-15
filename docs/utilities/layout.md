@@ -3,7 +3,7 @@ layout: default
 title: Create a Gmail signature
 parent: Gmail Customization
 ---
----
+
 # Create a Gmail signature
 
 ---

@@ -4,7 +4,6 @@ title: Create labels to organize Gmail
 parent: Gmail Customization
 ---
 
----
 # Create labels to organize Gmail
 
 ---
