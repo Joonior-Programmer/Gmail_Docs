@@ -29,11 +29,15 @@ The guide is for beginner Gmail users who have basic sending and receiving email
 
 Everything discussed in this documentation will be for the Windows and Mac version of Gmail. Layouts and settings may differ if you are using iOS or Android. This guide will provide easy-to-understand instructions to understand and manipulate these features to your needs. By the end of this document you will be able to:
 
-Automate emails/signature blocks
-Effectively search for emails
-Customize/personalize your Gmail
-Use Add-ons/Built in google products
-Create a safe environment for sending and receiving emails
+* Automate emails/signature blocks
+
+* Effectively search for emails
+
+* Customize/personalize your Gmail
+
+* Use Add-ons/Built in google products
+
+* Create a safe environment for sending and receiving emails
 
 ---
 
