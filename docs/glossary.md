@@ -6,6 +6,12 @@ nav_order: 10
 
 # Glossary
 
+**Inbox** - a mail box
+
+**Signature** - an ending for your mail
+
+**Label** - A category for your mails
+
 **Attach** - to add to something
 
 **Plugin** - external program the can be added to base program to enhance it's usability
