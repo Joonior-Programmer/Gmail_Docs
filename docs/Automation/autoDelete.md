@@ -61,7 +61,19 @@ Set up your inbox to automatically delete marked emails after a time period. If 
 
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/automationImg/scriptOptions.png?raw=true">
 
-9. *Left Click* **Save** at the bottom (If you run into some errors in this step, refer to our troubleshooting guide)
+9. *Left Click* **Save** at the bottom (If you run into some errors during the process, refer to our troubleshooting links below)
+
+    
+#### Common Issues
+
+1. <a href="https://joonior-programmer.github.io/Gmail_Docs/docs/troubleshooting/#pop-up-blocked" target="_blank">Pop Up Blocked</a>
+
+2. <a href="https://joonior-programmer.github.io/Gmail_Docs/docs/troubleshooting/#unverified-script" target="_blank">Unverified Script</a>
+
+3. <a href="https://joonior-programmer.github.io/Gmail_Docs/docs/troubleshooting/#long-script-load-time-after-saving" target="_blank">Long Script Load Time After Saving</a>
+
+4. <a href="https://joonior-programmer.github.io/Gmail_Docs/docs/troubleshooting/#custom-label-not-showing" target="_blank">Cutom Label Not Showing</a>
+
 
 ---
 

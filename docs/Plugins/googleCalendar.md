@@ -44,6 +44,10 @@ This section will teach you how to make events within gmails and send invite ema
 9. *Left Click* **Send** on the bottom right of the new window pop-up
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/sendNotification.png?raw=true">
 
+#### Common Issues
+
+1. <a href="https://joonior-programmer.github.io/Gmail_Docs/docs/troubleshooting/#if-you-create-an-event-at-the-wrong-time" target="_blank">If You Create An Event At The Wrong Time</a>
+
 ---
 
 ## Customization

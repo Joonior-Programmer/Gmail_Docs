@@ -26,7 +26,7 @@ nav_order: 11
 
 ---
 
-## Unable to sent confidential mode emails
+## Unable to send confidential mode emails
 
 The Recipient might have receiving confidential emails disabled
 

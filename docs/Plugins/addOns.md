@@ -43,6 +43,10 @@ This section will teach you how to install third-party plugins for Gmail.
 
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/doneAddOn.png?raw=true">
 
+#### Common Issues
+
+1. <a href="https://joonior-programmer.github.io/Gmail_Docs/docs/troubleshooting/#unable-to-install-plugin" target="_blank">Unable To Install Plugin</a>
+
 ---
 
 ## Accessing

@@ -81,3 +81,8 @@ Changing Gmail Theme will give you new feeling of Gmail
 9. If you see the change of background, you succeed to change the theme
 
     <img src = "https://github.com/Joonior-Programmer/Gmail_Docs/blob/master/assets/images/Gmail-theme/Result_Theme.png?raw=true">
+
+
+#### Common Issues
+
+1. <a href="https://joonior-programmer.github.io/Gmail_Docs/docs/troubleshooting/#unable-to-add-photo-when-changing-gmail-theme" target="_blank">Unable To Add Photo When Changing Gmail Theme</a>

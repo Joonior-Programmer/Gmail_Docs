@@ -40,3 +40,9 @@ There are some emails that you send and don't want just anyone to access. This S
 
 ---
 By doing this the email sent will be locked behind a password and will expire after the date you set it to expire. This process will only activate confidential mode for that email, so you will need to do this everytime you want to send a confidential email.
+
+---
+
+#### Common Issues
+
+1. <a href="https://joonior-programmer.github.io/Gmail_Docs/docs/troubleshooting/#unable-to-sent-confidential-mode-emails" target="_blank">Unable To Send Confidential Emails</a>
