@@ -3,6 +3,10 @@ layout: default
 title: Create a Gmail signature
 parent: Gmail Customization
 ---
+---
+# Create a Gmail signature
+
+---
 
 # Intro
 Creating a Gmail signature will help you to automatically add signature box when you compose an email.

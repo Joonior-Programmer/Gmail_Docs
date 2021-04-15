@@ -3,7 +3,10 @@ layout: default
 title: Change inbox type
 parent: Gmail Customization
 ---
+---
+# Change inbox type
 
+---
 # Intro
 Changing inbox type will help you to see important emails first to you
 

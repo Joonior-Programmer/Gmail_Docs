@@ -4,6 +4,11 @@ title: Create labels to organize Gmail
 parent: Gmail Customization
 ---
 
+---
+# Create labels to organize Gmail
+
+---
+
 # intro
 Creating and Managing Labels will help you to organize emails efficiently
 
